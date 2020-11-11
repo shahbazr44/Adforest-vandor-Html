@@ -1,0 +1,213 @@
+@charset "utf-8";
+/* CSS Document */
+.rtl .wcmpv-adf-header .search-block {
+	border-radius: 0px 4px 4px 0px;
+}
+.rtl .wcmpv-adf-header .search-header .search-btn {
+	border-radius: 4px 0px 0px 4px;
+}
+.rtl .wcmpv-adf-header .header-right ul li.call-us .icon-spn {
+	float: left !important;
+}
+.rtl .wcmpv-adf-header .mega-menu .menu-col .theme-icon {
+	margin-left: 8px;
+	margin-right: 0px;
+}
+.rtl .mega-menu .menu-links > li > a i.fa.fa-indicator {
+	padding-right: 2px;
+	padding-left: 0px;
+}
+.rtl .wcmpv-adf-header .cat-drop a .caret {
+	float: left;
+}
+.rtl .wcmpv-adf-header .cat-drop a {
+	text-align: right;
+}
+.rtl .wcmpv-adf-header .cat-drop a i {
+	padding-right: 0px;
+	padding-left: 15px;
+}
+.rtl .wcmpv-adf-header .cat-drop ul li:first-child {
+	border-right: 3px solid #65039F;
+	border-left: 0;
+}
+.rtl .wcmpv-adf-header .cat-drop ul li:nth-child(2n+2) {
+	border-right: 3px solid blue;
+	border-left: 0;
+}
+.rtl .wcmpv-adf-header .cat-drop ul li:nth-child(2n+3) {
+	border-right: 3px solid green;
+	border-left: 0;
+}
+.rtl .wcmpv-adf-header .cat-drop ul li:nth-child(2n+4) {
+	border-right: 3px solid black;
+	border-left: 0;
+}
+.rtl .wcmpv-adf-header .cat-drop ul li:nth-child(2n+5) {
+	border-right: 3px solid orange;
+	border-left: 0;
+}
+.wcmpv-adf-header .cat-drop ul li:nth-child(2n+6) {
+	border-right: 3px solid pink;
+	border-left: 0;
+}
+.rtl .wcmpv-adf-header .cat-drop ul li:nth-child(2n+7) {
+	border-right: 3px solid purple;
+	border-left: 0;
+}
+.rtl .wcmpv-adf-header .cat-drop ul li:nth-child(2n+8) {
+	border-right: 3px solid silver;
+	border-left: 0;
+}
+.rtl .wcmpv-adf-header .cat-drop ul li:nth-child(2n+9) {
+	border-right: 3px solid gray;
+	border-left: 0;
+}
+.rtl .wcmpv-adf-header .cat-drop ul li:nth-child(2n+10) {
+	border-right: 3px solid cyan;
+	border-left: 0;
+}
+.rtl .wcmpv-adf-header .cat-drop ul li:nth-child(2n+9) {
+	border-right: 3px solid gray;
+	border-left: 0;
+}
+.rtl .wcmpv-adf-header .cat-drop ul.dropdown-menu {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.rtl .wcmpv-hero .wcmpv-hero-heading .singnaute .offbg {
+	right: -40px;
+}
+.rtl .wcmpv-services .service-inner .service-icon {
+	float: right;
+	margin-right: 0px;
+	margin-left: 15px;
+}
+.rtl .wcmpv-new-arrival .nav-tabs {
+	text-align: left !important;
+}
+.rtl .wcmpv-new-arrival nav > .c-nav a.nav-item.nav-link {
+	margin-right: 15px;
+	margin-left: 0px !important;
+}
+.rtl .wcmpv-vendor .nav-tabs {
+	text-align: left !important;
+}
+.rtl .wcmpv-vendor nav > .c-nav a.nav-item.nav-link {
+	margin-right: 15px;
+	margin-left: 0px !important;
+}
+.rtl .wcmpv-vendor .multi-inner .multi-bottom .multi-detail {
+	padding: 15px 30px 30px 0px;
+}
+.rtl .section-footer-bottom-mlt .footer-15-text ul li .input-group span i {
+	transform: rotate(180deg);
+}
+.rtl .wcmpv-vendor .multi-inner .multi-bottom .multi-detail .detail-button ul li {
+	display: inline-block;
+	margin-right: 0px;
+	margin-left: 15px;
+}
+.rtl .cat-drop ul.dropdown-menu li .icon {
+	float: right;
+	width: 32px;
+	height: 32px;
+	margin-right: 0px;
+	margin-left: 10px;
+}
+.rtl .cat-drop ul li .cat-num {
+	font-size: 15px;
+	color: #a1a1a1;
+	float: left;
+}
+.rtl .section-footer-bottom-mlt .line-bottom {
+	float: right;
+}
+.custom-container.rtl .wcmpv-vendor .col-lg-3:nth-child(4n+1) {
+	clear: right;
+}
+/* =-=-=-=-=-=-=-Section-wcmpv-detail--start=-=-=--=-= */
+.rtl .wcmpv-deatil-hero .user-detail-main .user-inner {
+	margin-right: 0px;
+	margin-left: 15px;
+	float: right;
+}
+.rtl .wcmpv-deatil-hero .wcmpv-deatil-social {
+	float: left;
+}
+.rtl .wcmpv-detail .vendor-sidebar .widget .personal-detail-inner .personal-icon {
+	float: right;
+}
+.rtl .wcmpv-detail .vendor-sidebar .widget .personal-detail-inner .text-detail {
+	float: right;
+	margin-left: 0px;
+	margin-right: 10px;
+}
+.rtl .wcmpv-detail .detail-rating-review .ad-main-content .ads-bids-rating .ads-bids-rply .btn-theme i {
+	float: left;
+}
+/* =-=-=-=-=-=-=-Section-wcmpv-detail--close=-=-=--=-= */
+/* =-=-=-=-=-=-= Responsive Quries =-=-=-=-=-=-= */
+/* =-=-=-=-=-=-= Responsive Quries for Mobile-Phons start =-=-=-=-=-=-= */
+@media (min-width: 320px) and (max-width: 767px) {
+	.rtl .wcmpv-services .service-inner .service-icon {
+		float: none;
+	}
+	.rtl .wcmpv-new-arrival .nav-tabs {
+		text-align: center;
+	}
+	.rtl .wcmpv-new-arrival nav > .c-nav a.nav-item.nav-link {
+		margin-left: 0px !important;
+		padding: 10px 18px;
+	}
+	.rtl .wcmpv-new-arrival nav > .c-nav a.nav-item.nav-link {
+		margin-right: 0px;
+		margin-left: 0px !important;
+	}
+	.rtl .wcmpv-vendor .nav-tabs {
+		text-align: center!important;
+	}
+	.rtl .wcmpv-vendor nav > .c-nav a.nav-item.nav-link {
+		margin-right: 0px;
+		margin-left: 0px !important;
+	}
+	/* =-=-=-=-=-=-=-Section-wcmpv-detail--start=-=-=--=-= */
+	.rtl .wcmpv-deatil-hero .user-detail-main .user-inner {
+		margin: 0 auto;
+		float: none;
+	}
+	.rtl .wcmpv-deatil-hero .wcmpv-deatil-social {
+		float: none;
+	}
+	.rtl .wcmpv-detail .detail-rating-review .ad-main-content .reply-box .replyer-detail .replyer-date {
+		padding: 0px;
+		padding-left: 10px;
+	}
+}
+/* =-=-=-=-=-=-= Responsive Quries for Mobile-Phons close =-=-=-=-=-=-= */
+/* =-=-=-=-=-=-= Responsive Quries for Tablets start =-=-=-=-=-=-= */
+@media (min-width: 768px) and (max-width: 991px) {
+	.custom-container.rtl .wcmpv-vendor .col-sm-6:nth-child(2n+1) {
+		clear: right;
+	}
+	.rtl .wcmpv-adf-header .search-header .search-btn {
+		padding: 0px 24px;
+	}
+	.rtl .wcmpv-services .service-inner .service-icon {
+		float: none;
+	}
+}
+/* =-=-=-=-=-=-= Responsive Quries for Tablets close =-=-=-=-=-=-= */
+/* =-=-=-=-=-=-= Responsive Quries for Small Laptops start =-=-=-=-=-=-= */
+@media (min-width: 992px) and (max-width: 1199px) {
+	.custom-container.rtl .wcmpv-vendor .col-md-6:nth-child(2n+1) {
+		clear: right;
+	}
+}
+/* =-=-=-=-=-=-= Responsive Quries for Small Laptops close =-=-=-=-=-=-= */
+@media (min-width: 1200px) {
+	.custom-container.rtl .mega-menu .drop-down {
+		left: 0;
+		right: auto;
+	}
+}
